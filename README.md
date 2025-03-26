@@ -1,4 +1,4 @@
-# hackTheBox
+# HackTheBox
 
 ![banner](/img/cnam_.png)
 
